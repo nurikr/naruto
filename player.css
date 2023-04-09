@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+}
+nav img{
+    width: 150px;
+}
+body{
+    margin: 0;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+.top{
+    display: flex;
+    justify-content: space-around;
+}
+
+.top1{
+    display: flex;
+    justify-content: space-around;
+}
