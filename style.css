@@ -22,14 +22,19 @@ nav a{
     padding-top: 50px;
 }
 .div1 h1{
-    font-size: 50px;
+    font-size: 100px;
+    margin-top: 50px;
+    margin-left: 30px;
 }
+.div1 h5{
+    
+    margin-left: 30px;
+}
+
 .div1 p{
     font-size: 30px;
-    position: relative;
-    top: 50px;
-    left: 20px;
-
+    margin-top: 50px;
+    margin-left: 30px;
 }
 .div1 button{
     background-color: black;
@@ -39,7 +44,7 @@ nav a{
     box-shadow: 0 0 5px orange;
     position: relative;
     left: 1000px;
-    top: 300px;
+    top: 200px;
     border-radius: 20px;
     font-size: 25px;
 }

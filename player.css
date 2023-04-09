@@ -23,3 +23,7 @@ nav a{
     display: flex;
     justify-content: space-around;
 }
+footer{
+    background-color: black;
+    color: white;
+}
